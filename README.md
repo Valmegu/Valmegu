@@ -1,10 +1,14 @@
 # Hi, I'm Valeria Medina 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=563d7c&height=120&section=header&text=Powered%20by%20curiosity%20(and%20coffee)&fontSize=28&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=9b7fd6&height=140&section=header&text=Growing%20Strong&fontSize=44&fontColor=F6E9B8" alt="Growing Strong" />
 </p>
 
-### Data Analyst in progress 🚀 — SQL, R, Tableau & Excel (curiosity-driven)
+<p align="center">
+  <em>Always lerning - curiosity first, insights next.</em>
+</p>
+
+### Data Analyst in progress 🚀 — SQL, R, Tableau & Excel
 
 ---
 
