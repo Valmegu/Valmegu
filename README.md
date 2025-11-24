@@ -1,13 +1,5 @@
 # Hi, I'm Valeria Medina 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=9b7fd6&height=140&section=header&text=Growing%20Strong&fontSize=44&fontColor=F6E9B8" alt="Growing Strong" />
-</p>
-
-<p align="center">
-  <em>Always lerning - curiosity first, insights next.</em>
-</p>
-
 ### Data Analyst in progress 🚀 — SQL, R, Tableau & Excel
 
 ---
@@ -48,20 +40,6 @@ Análisis del comportamiento de usuarios para proponer estrategias que aumenten 
 - Tableau: dashboards profesionales
 - Python para EDA
 - Técnicas de storytelling con datos
-
----
-
-## ☕ Fun Facts
-- Amante del orden y la estética al documentar proyectos
-- La curiosidad es mi principal motor para aprender
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Valmegu&show_icons=true&theme=tokyonight" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Valmegu&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
