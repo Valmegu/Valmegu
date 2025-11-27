@@ -19,7 +19,7 @@ Actualmente desarrollo mi portfolio con proyectos de análisis, visualización y
 **Workflow:** Git · GitHub · Markdown · Documentación técnica
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=r,postgresql,sqlite,python,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=r,sqlite,python,git,github,vscode"/>
 </p>
 
 ---
