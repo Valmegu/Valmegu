@@ -14,7 +14,7 @@ Actualmente desarrollo mi portfolio con proyectos de análisis, visualización y
 ## 🧰 Tech Stack
 
 **Lenguajes:** R · SQL · Python (básico)  
-**Entornos:** RStudio · Kaggle · Jupyter  
+**Entornos:** RStudio · Kaggle · Dbeaver · Visual Studio
 **Visualización:** Tableau · ggplot2 · Power BI (básico)  
 **Workflow:** Git · GitHub · Markdown · Documentación técnica
 
@@ -32,6 +32,14 @@ Análisis del comportamiento de usuarios para proponer estrategias que aumenten 
 **Herramientas:** R (tidyverse, ggplot2)  
 📎 Repo: https://github.com/Valmegu/Cyclistic-CaseStudy  
 📘 Notebook: https://www.kaggle.com/code/valmegu/proyecto-cyclistic
+
+### 🔹 Impact of COVID-19 on Tourism in Spain — Case Study
+Analizar cómo la pandemia de COVID-19 afectó al turismo en España durante 2020 y cómo ha sido su proceso de recuperación
+
+**Herramientas:** Excel • SQLite • POWER BI  (EN DESARROLLO)
+
+📎 Repo: https://github.com/Valmegu/Tourism-Spain-COVID19-CaseStudy-SQL  
+
 
 ---
 
